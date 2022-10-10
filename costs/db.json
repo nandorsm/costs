@@ -1,0 +1,85 @@
+{
+  "projects": [
+    {
+      "name": "Projeto Teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "id": 1
+    },
+    {
+      "name": "SecondTest",
+      "budget": "8000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "id": 2
+    },
+    {
+      "name": "Nando",
+      "budget": "123123",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "id": 4
+    },
+    {
+      "name": "Fernando",
+      "budget": "321321321",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "id": 5
+    },
+    {
+      "name": "AgoraVai",
+      "budget": "987456321",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "id": 7
+    },
+    {
+      "name": "Novo Projeto",
+      "budget": "899",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "id": 8
+    },
+    {
+      "name": "Projeto02",
+      "budget": "900",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}

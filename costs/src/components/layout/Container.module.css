@@ -1,0 +1,21 @@
+.container {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto; /*centraliza na tela*/
+    flex-wrap: wrap; /*Quando os elementos filhos não couberem na tela, eles vão para baixo automaticamente*/
+
+}
+
+.min-height {
+    min-height: 75%;
+}
+
+.start {
+    justify-content: flex-start;
+}
+
+.column {
+    flex-direction: column;
+    justify-content: flex-start;
+}
