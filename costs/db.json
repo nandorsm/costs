@@ -1,67 +1,39 @@
 {
   "projects": [
     {
-      "name": "Projeto Teste",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "id": 1
-    },
-    {
-      "name": "SecondTest",
-      "budget": "8000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "id": 2
-    },
-    {
-      "name": "Nando",
-      "budget": "123123",
+      "name": "Projeto atualizado",
+      "budget": "1300",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "id": 4
+      "cost": 0,
+      "services": [],
+      "id": 1
     },
     {
-      "name": "Fernando",
-      "budget": "321321321",
+      "name": "Nandorsm",
+      "budget": "5000",
       "category": {
         "id": "4",
         "name": "Planejamento"
       },
-      "id": 5
-    },
-    {
-      "name": "AgoraVai",
-      "budget": "987456321",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "id": 7
-    },
-    {
-      "name": "Novo Projeto",
-      "budget": "899",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "id": 8
-    },
-    {
-      "name": "Projeto02",
-      "budget": "900",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "id": 9
+      "cost": 600,
+      "services": [
+        {
+          "name": "M",
+          "cost": "100",
+          "description": "Faz isso aqui",
+          "id": "1556b1d1-d0c8-4ae3-8ffa-c7e5956dd938"
+        },
+        {
+          "name": "Meu novo serviço",
+          "cost": "500",
+          "description": "Faz isso ali",
+          "id": "1496a852-a4d6-454d-8eeb-365fb6c9ed24"
+        }
+      ],
+      "id": 2
     }
   ],
   "categories": [
